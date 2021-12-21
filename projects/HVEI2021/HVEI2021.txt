@@ -1,0 +1,10 @@
+@article{ren2021controllable,
+  title={Controllable Medical Image Generation via Generative Adversarial Networks},
+  author={Ren, Zhihang and Yu, Stella X and Whitney, David},
+  journal={Electronic Imaging},
+  volume={2021},
+  number={11},
+  pages={112--1},
+  year={2021},
+  publisher={Society for Imaging Science and Technology}
+}
