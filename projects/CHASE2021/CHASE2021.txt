@@ -1,0 +1,8 @@
+@inproceedings{ren2021improve,
+  title={Improve Image-based Skin Cancer Diagnosis with Generative Self-Supervised Learning},
+  author={Ren, Zhihang and Guo, Yunhui and Stella, X Yu and Whitney, David},
+  booktitle={2021 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)},
+  pages={23--34},
+  year={2021},
+  organization={IEEE}
+}
