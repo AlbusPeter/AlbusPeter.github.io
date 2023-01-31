@@ -1,0 +1,6 @@
+@article{wang2022idiosyncratic,
+  title={Idiosyncratic biases in the perception of medical images},
+  author={Wang, Zixuan and Manassi, Mauro and Ren, Zhihang and Ghirardo, Cristina and Canas-Bajo, Teresa and Murai, Yuki and Zhou, Min and Whitney, David},
+  journal={Frontiers in Psychology},
+  year={2022}
+}
