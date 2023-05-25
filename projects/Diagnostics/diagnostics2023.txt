@@ -1,0 +1,10 @@
+@article{ren2023serial,
+  title={Serial Dependence in Dermatological Judgments},
+  author={Ren, Zhihang and Li, Xinyu and Pietralla, Dana and Manassi, Mauro and Whitney, David},
+  journal={Diagnostics},
+  volume={13},
+  number={10},
+  pages={1775},
+  year={2023},
+  publisher={MDPI}
+}
