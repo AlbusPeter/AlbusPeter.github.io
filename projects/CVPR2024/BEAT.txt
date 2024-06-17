@@ -1,0 +1,5 @@
+@inproceedings{ren2024beat,
+  title={BEAT: Berkeley Emotion and Affect Tracking Dataset},
+  author={Ren, Zhihang and Ortega, Jefferson and Guo, Yunhui and Stella, X Yu and Whitney, David},
+  booktitle={The First Workshop on Populating Empty Cities--Virtual Humans for Robotics and Autonomous Driving at CVPR 2024, 2nd Round}
+}

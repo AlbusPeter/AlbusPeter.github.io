@@ -1,0 +1,5 @@
+@inproceedings{ren2024region,
+  title={Region-Based Emotion Recognition via Superpixel Feature Pooling},
+  author={Ren, Zhihang and Wang, Yifan and Ke, Tsung-Wei and Guo, Yunhui and Stella, X Yu and Whitney, David},
+  booktitle={The First Workshop on Populating Empty Cities--Virtual Humans for Robotics and Autonomous Driving at CVPR 2024}
+}
