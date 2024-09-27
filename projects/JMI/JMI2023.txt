@@ -1,0 +1,10 @@
+@article{ren2023serial,
+  title={Serial dependence in perception across naturalistic generative adversarial network-generated mammogram},
+  author={Ren, Zhihang and Canas-Bajo, Teresa and Ghirardo, Cristina and Manassi, Mauro and Yu, Stella X and Whitney, David},
+  journal={Journal of Medical Imaging},
+  volume={10},
+  number={4},
+  pages={045501--045501},
+  year={2023},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}

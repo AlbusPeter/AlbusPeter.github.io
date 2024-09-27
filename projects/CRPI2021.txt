@@ -1,0 +1,10 @@
+@article{manassi2021serial,
+  title={Serial dependence in the perceptual judgments of radiologists},
+  author={Manassi, Mauro and Ghirardo, Cristina and Canas-Bajo, Teresa and Ren, Zhihang and Prinzmetal, William and Whitney, David},
+  journal={Cognitive research: principles and implications},
+  volume={6},
+  number={1},
+  pages={1--13},
+  year={2021},
+  publisher={Springer}
+}
